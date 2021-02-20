@@ -1,0 +1,4 @@
+node_modules
+.idea
+service_account_credentials.json
+credentials.json5

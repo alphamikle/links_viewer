@@ -1,0 +1,8 @@
+{
+  sheetId: '1HBfHxP9RIvtejR0wk04JGt-Xn6q8CsJ9LTNeYb0hnPI',
+  tableIndex: 1,
+  linksCellTitle: 'links',
+  botCellTitle: 'bot',
+  headless: true,
+  timeout: 90, // in seconds
+}
